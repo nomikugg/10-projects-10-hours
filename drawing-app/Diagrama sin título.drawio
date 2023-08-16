@@ -1,74 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T13:26:28.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="91Cuvof9qdHaZsXGvB16" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T13:34:22.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="H9q4Uv-hD4nPOCeB1kQU" version="21.6.8" type="github">
   <diagram name="Página-1" id="3aqGHCpr0WghitQqejVI">
-    <mxGraphModel dx="1290" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="521" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OtB69KIqnrN0sP0agSHx-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="OtB69KIqnrN0sP0agSHx-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="140" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="110" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="410" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="30" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OtB69KIqnrN0sP0agSHx-18" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF0000;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="65" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="390" width="120" height="80" as="geometry" />
+        <mxCell id="OtB69KIqnrN0sP0agSHx-24" value="Recopilacion de datos de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="OtB69KIqnrN0sP0agSHx-25" value="Desarrollo de algoritmos de deteccion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="150" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="180" width="120" height="80" as="geometry" />
+        <mxCell id="OtB69KIqnrN0sP0agSHx-26" value="Analisis del comportamiento anomalo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="155" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="350" width="120" height="80" as="geometry" />
+        <mxCell id="OtB69KIqnrN0sP0agSHx-27" value="Deteccion de amenazas avanzadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="470" width="120" height="80" as="geometry" />
+        <mxCell id="OtB69KIqnrN0sP0agSHx-29" value="Monitorizacion en Tiempo Real" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-24" value="Recopilacion de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="OtB69KIqnrN0sP0agSHx-30" value="Sistema de respuesta automatizada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OtB69KIqnrN0sP0agSHx-25" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="60" height="30" as="geometry" />
+        <mxCell id="OtB69KIqnrN0sP0agSHx-31" value="Colaboracion con fuerzas de seguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-32" value="Auditoria de Seguridad Continua" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="55" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-34" value="Educacion en Ciberseguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="135" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-35" value="Desarrollo en Sistemas de autenticacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-36" value="Evaluacion Etica de la IA en Ciberseguridad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-37" value="Investigacion y actualizacion de amenazas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="495" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-38" value="Evaluacion de impacto y Eficacia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="234" y="470" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-40" value="Evaluacion de riesgos y Vulnerabilidades" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-41" value="Presupuesto y Financiamiento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OtB69KIqnrN0sP0agSHx-43" value="Investigacion Forense Digital" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
